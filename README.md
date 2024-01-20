@@ -44,7 +44,14 @@ nothing to commit(create/copy files and use "git add" to track)
 - `git branch`: The purpose of git branch is to create, list and delete branches in a repository. 
 - `git merge`: This is used to merge changes made in different branches into one branch.
 - `git checkout`: It can be used in various ways such as creating a branch, switching to a new branch, undo changes and moving to a specific commit.
-            
+
+ # My Unique Touch
+## Describe something that sets you apart from others:
+- I am a very empathic and forgiving person. I can't be angry at someone for too long.
+- I do not panick in anxious situations which is why I do not stress much.
+- I have a very clear idea of my current goals that I have to achieve.
+- I am also very social and friendly.
+
 
 
 
