@@ -26,4 +26,19 @@ nothing to commit(create/copy files and use "git add" to track)
 - `code`:It is used to open the editor from the terminal.
 - `ls`:The "ls" command stands for "list".This is used to list files in list files ina directory.
 
+# Why Version Control is Important
+## with version control, it is possible to:
+- It is helpful in tracking the history of changes made in code.
+- It promotes collaborative development among users. Using branching and merging team members can work on different parts of a project  and combine it all at the end.
+- In case their is a mistake made in th code , version control allow users to go back to the previous stage of the code. 
+- It also helps in code review as during merging , users get to review the code which helps to identify mistakes.
+
+
+
+
+
+
+
+
+
 
